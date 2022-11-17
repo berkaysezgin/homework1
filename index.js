@@ -48,7 +48,7 @@ function findFriend(first, second) {
     console.log(first + " and " + second + " are not friend number");
   }
 }
-alert(findFriend(220, 284));
+findFriend(220, 284);
 console.log("**************")
 //Question1
 function isPrimeNumber(...numbers) {
@@ -64,4 +64,4 @@ function isPrimeNumber(...numbers) {
     }
   }
 }
-alert(isPrimeNumber(13, 284, 12, 13, 7, 8, 9, 21,3,5,9));
+isPrimeNumber(13, 284, 12, 13, 7, 8, 9, 21,3,5,9);
