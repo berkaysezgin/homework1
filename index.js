@@ -5,7 +5,7 @@ for (var sayi = 1; sayi < 1000; sayi++) {
       break;
     }
   }
-  if (sayi == i||sayi==1) {
+  if (sayi == i) {
     console.log(sayi);
   }
 }
